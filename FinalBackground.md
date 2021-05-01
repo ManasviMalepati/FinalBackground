@@ -15,13 +15,14 @@ When traveling by car, you not only reach your destination sooner but you have s
 
 Is there a demand for public transportation?
 
-This is an important question to ask since finding a demand for a service will allow policymakers to see whether the cost of the program is worth the demand for it. In order to truly evaluate the importance of public transportation, we must study the necessity and that necessity can be measured by demand. In the the "Evaluating Public Transit Benefits and Costs" by Todd Litman, there is an entire section dedicated to defining how to measure "Transit Demand," showing that demand is an important variable to examine when properly evaluating public transportation services. Litman also mentions the many variables that go into affecting demand, including: "Demographic Factors", "Geographic Factors", "Socioeconomic Factors", "Transit Service Quality", "Transit Orientation Pattern", and "Transit Fare." It is important to ask this question because demand encompasses many important details about public transportation that should be studied in order to properly evaluate the public system.
+This is an important question to ask since finding a demand for a service will allow policymakers to see whether the cost of the program is worth the demand for it. In order to truly evaluate the importance of public transportation, we must study the necessity and that necessity can be measured by demand. In the "Evaluating Public Transit Benefits and Costs" by Todd Litman, there is an entire section dedicated to defining how to measure "Transit Demand," showing that demand is an important variable to examine when properly evaluating public transportation services. Litman also mentions the many variables that go into affecting demand, including: "Demographic Factors", "Geographic Factors", "Socioeconomic Factors", "Transit Service Quality", "Transit Orientation Pattern", and "Transit Fare." It is important to ask this question because demand encompasses many important details about public transportation that should be studied in order to properly evaluate the public system.
 
-Does public transportation require more funding?
+Are public programs worth their cost?
 
-
+Public programs are funded by the government and as a result, by taxpayer money. This means that a large portion of the population is concerned about their money going to programs that do not require any additional compensation. In order to combat this concern, it is important to ask the question of: is this program worth the funding? According to the CDC's Program Evaluation Guide, a major part of evaluating a program is to look at "Cost-Effectiveness," which they define with the question "Does the value or benefit of achieving your program’s goals and objectives exceed the cost of producing them?" The major focus of this question is about the "cost" of the program and how that matches with the results produced by the program. This means that the worth of the program is measured by cost and is extremely important in understanding how well a program is doing.
 
 Is there a reason to fund public transportation?
+
 
     ### Justification for each:
 #### Link for dataset: 
