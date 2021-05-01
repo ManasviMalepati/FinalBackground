@@ -15,9 +15,11 @@ When traveling by car, you not only reach your destination sooner but you have s
 
 Is there a demand for public transportation?
 
-This is an important question to ask since this 
+This is an important question to ask since finding a demand for a service will allow policymakers to see whether the cost of the program is worth the demand for it. In order to truly evaluate the importance of public transportation, we must study the necessity and that necessity can be measured by demand. In the the "Evaluating Public Transit Benefits and Costs" by Todd Litman, there is an entire section dedicated to defining how to measure "Transit Demand," showing that demand is an important variable to examine when properly evaluating public transportation services.
 
 Does public transportation require more funding?
+
+
 
 Is there a reason to fund public transportation?
 
